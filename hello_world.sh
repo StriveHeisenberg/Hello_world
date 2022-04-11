@@ -1,5 +1,6 @@
 #!/bin/bash
 #wangyuedong
 
-echo "hello world!"
+echo "Hello world!"
+echo "This is shell language."
 exit 0
